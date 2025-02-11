@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sirumm.csgad.com/aJC/sitemap.xml.gz
